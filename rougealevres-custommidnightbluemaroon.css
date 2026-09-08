@@ -2,72 +2,72 @@ img[title="Unread"], img[title="UnRead"] {
 width:0;
 height:30px;
 padding-right:50px;
-background:transparent url('images/unread.png') center center no-repeat;
+background:transparent url('rouge/unread.png') center center no-repeat;
 }
 img[title="Read"] {
 width:0;
 height:30px;
 padding-right:50px;
-background:transparent url('images/read.png') center 0px no-repeat;
+background:transparent url('rouge/read.png') center 0px no-repeat;
 }
 img[title="snatches"], img[title="Snatches"] {
 width:0;
 height:30px;
 padding-right:30px;
 border: none !important;
-background: url('images/snatches.png') no-repeat}
+background: url('rouge/snatches.png') no-repeat}
 img[title="seeders"], img[title="Seeders"] {
 width:0;
 height:30px;
 padding-right:30px;
 border: none !important;
-background: url('images/seeders.png') no-repeat}
+background: url('rouge/seeders.png') no-repeat}
 img[title="leechers"], img[title="Leechers"] {
 width:0;
 height:30px;
 padding-right:30px;
 border: none !important;
-background: url('images/leechers.png') no-repeat}
+background: url('rouge/leechers.png') no-repeat}
 
 img[src="static/common/caticons/series-hd.png"] {
 width:0;
-background: transparent url(images/torrent-icons.png) -2px 0px no-repeat;
+background: transparent url(rouge/torrent-icons.png) -2px 0px no-repeat;
 height:48px;
 padding-right:48px;
 }
 img[src="static/common/caticons/series-sd.png"] {
 width:0;
-background: transparent url(images/torrent-icons.png) -74px 0px no-repeat;
+background: transparent url(rouge/torrent-icons.png) -74px 0px no-repeat;
 height:48px;
 padding-right:48px;
 }
 img[src="static/common/caticons/episode-hd.png"] {
 width:0;
-background: transparent url(images/torrent-icons.png) -146px 0px no-repeat;
+background: transparent url(rouge/torrent-icons.png) -146px 0px no-repeat;
 height:48px;
 padding-right:48px;
 }
 img[src="static/common/caticons/episode-sd.png"] {
 width:0;
-background: transparent url(images/torrent-icons.png) -218px 0px no-repeat;
+background: transparent url(rouge/torrent-icons.png) -218px 0px no-repeat;
 height:48px;
 padding-right:48px;
 }
 img[src="static/common/browsetags/fast.png"] {
 width:0;
-background: transparent url(images/torrent-icons.png) 0px -121px no-repeat;
+background: transparent url(rouge/torrent-icons.png) 0px -121px no-repeat;
 height:16px;
 padding-right:48px;
 }
 img[src="static/common/browsetags/auto.png"] {
 width:0;
-background: transparent url(images/torrent-icons.png) -74px -118px no-repeat;
+background: transparent url(rouge/torrent-icons.png) -74px -118px no-repeat;
 height:16px;
 padding-right:48px;
 }
 img[src="static/common/browsetags/new.png"] {
 width:0;
-background: transparent url(images/torrent-icons.png) -152px -118px no-repeat;
+background: transparent url(rouge/torrent-icons.png) -152px -118px no-repeat;
 height:18px;
 padding-right:48px;
 }
@@ -83,7 +83,7 @@ html {
 
 
 body {
-    background: url("images/backgroundwood.png") repeat-x scroll 0 0 #9F2C2C;
+    background: url("rouge/backgroundwood.png") repeat-x scroll 0 0 #9F2C2C;
     color: #E9E9E9;
     font-family: tahoma,helvetica,sans-serif;
     font-size: 8pt;
@@ -316,13 +316,13 @@ ul.thin li {
     width: 960px;
     height: 100px;
     margin: 0px;
-    background-image: url('images/header.png');
+    background-image: url('rouge/header.png');
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #logo a {
-    background: url("images/ultraheader2.png") no-repeat scroll 0 0 transparent;
+    background: url("rouge/ultraheader2.png") no-repeat scroll 0 0 transparent;
     border-left-style: none;
     border-right-style: none;
     border-top-style: none;
@@ -440,7 +440,7 @@ margin-right: 2px;
 }
 
 #searchbars input {
-    background: url("images/searchbarsinput.png") no-repeat scroll 0 9px transparent;
+    background: url("rouge/searchbarsinput.png") no-repeat scroll 0 9px transparent;
     border: medium none;
     color: #FFFFFF;
     font-size: 0.9em;
@@ -713,13 +713,13 @@ td.tdright {
 }
 
 .forum_group_header {
-  background: #3d3d3d url('images/head.png');
+  background: #3d3d3d url('rouge/head.png');
   font-weight: bold;
   color: #ffffff;
 }
 
 .colhead {
-  background: #3d3d3d url('images/head.png');
+  background: #3d3d3d url('rouge/head.png');
   font-weight: bold;
   color: #ffffff;
 }
@@ -750,7 +750,7 @@ td.colhead,.colhead td {
 /*---Start of profile-slider CSS----------------*/
 
 ul.navigation {
-    background: #3d3d3d url('images/head.png');
+    background: #3d3d3d url('rouge/head.png');
     color: #fff;
     text-align: center;
     list-style: none;
@@ -1031,7 +1031,7 @@ ul .invitetree {
 
 #center_poll {
   height: 9px;
-  /*background: url('http://broadcasthe.net/static/styles/smpte/images/bar.gif') repeat;*/
+  /*background: url('http://broadcasthe.net/static/styles/smpte/rouge/bar.gif') repeat;*/
   background: #3E3E3E;
   float: left;
   margin: 0px;
@@ -1041,7 +1041,7 @@ ul .invitetree {
 #right_poll {
   width: 2px;
   height: 9px;
-  background: url('images/bar_right.gif') no-repeat center center;
+  background: url('rouge/bar_right.gif') no-repeat center center;
   float: left;
   margin: 0px;
   padding: 0px;
@@ -1394,7 +1394,7 @@ div.thin2 {
 
 /* jQuery Menu */
 #menu {
-    background: url("images/ultramenu.png") no-repeat scroll 0 0 transparent;
+    background: url("rouge/ultramenu.png") no-repeat scroll 0 0 transparent;
     font-size: 11px;
     height: 57px;
     line-height: 38px;
@@ -1406,7 +1406,7 @@ div.thin2 {
 }
 
 #index #nav_index,  #tv #nav_tv, #torrent #nav_torrent, #community #nav_community, #help #nav_help, #bonus #nav_bonus, #user #nav_user, #staff #nav_staff {
-  background: url('images/menuh.png') left center;
+  background: url('rouge/menuh.png') left center;
 }
 
 #menu ul li a {
@@ -1415,7 +1415,7 @@ font-weight: bold;
 }
 
 #menu ul li a:hover {
-  background: url('images/menuh.png') left center;
+  background: url('rouge/menuh.png') left center;
   text-decoration: none;
   color: #fff;
 }
